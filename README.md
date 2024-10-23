@@ -1,5 +1,3 @@
-# SaloApp - Terms of Service
-
 ## 1. Terms
 
 By accessing SaloApp, you agree to be bound by these Terms of Service, all applicable laws, and regulations, and you acknowledge that you are responsible for compliance with any applicable local laws. If you disagree with any part of these terms, you are prohibited from using or accessing the app. The materials within this app are protected by applicable copyright and trademark laws.
